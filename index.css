@@ -196,6 +196,7 @@ ol {
   #game-board button {
     width: 7rem;
     height: 7rem;
+    font-size: 5rem;
   }
 
   .player-name {
@@ -213,6 +214,7 @@ ol {
   #game-board button {
     width: 5rem;
     height: 5rem;
+    font-size: 3rem;
   }
 
   .player-name {
@@ -229,6 +231,7 @@ ol {
   #game-board button {
     width: 3.5rem;
     height: 3.5rem;
+    font-size: 1.5rem;
   }
 }
 

@@ -192,6 +192,46 @@ ol {
   padding: 1rem;
 }
 
+@media (max-width: 528px) {
+  #game-board button {
+    width: 7rem;
+    height: 7rem;
+  }
+
+  .player-name {
+    font-size: 0.75rem;
+    width: fit-content;
+  }
+
+  .player-symbol {
+    font-size: 0.75rem;
+  }
+}
+
+
+@media (max-width: 500px) {
+  #game-board button {
+    width: 5rem;
+    height: 5rem;
+  }
+
+  .player-name {
+    font-size: 0.75rem;
+    width: fit-content;
+  }
+
+  .player-symbol {
+    font-size: 0.75rem;
+  }
+}
+
+@media (max-width: 384px) {
+  #game-board button {
+    width: 3.5rem;
+    height: 3.5rem;
+  }
+}
+
 #game-over {
   position: absolute;
   top: 0;
